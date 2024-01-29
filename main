@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scales Hub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: navy;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: navy;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Scales Hub</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Welcome to Scales Hub</h2>
+            <p>Explore a world of musical scales to enhance your musical journey.</p>
+        </section>
+
+        <section>
+            <h2>Popular Scales</h2>
+            <ul>
+                <li>Major Scale</li>
+                <li>Minor Scale</li>
+                <li>Pentatonic Scale</li>
+                <!-- Add more scales as needed -->
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Scales Hub. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
